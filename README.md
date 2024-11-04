@@ -1,28 +1,38 @@
-# User-Engagement-Analysis-for-Restaurant-Success
-Have you ever wondered what makes some restaurants a hit while others struggle? This project dives into Yelp data to uncover what factors help restaurants thrive. By looking at things like reviews, tips, check-ins, and even the times people are most likely to engage, we are shedding some light on what drives success in the restaurant world.
+# User Engagement Analysis for Restaurant Success
 
-About the Project
-Using Yelp’s dataset, we are exploring how user engagement (reviews, tips, check-ins) ties into restaurant success metrics, like review counts and ratings. We look at trends over time, differences between highly rated and low-rated spots, and even how elite Yelp users impact restaurants.
+## Introduction
+<small>The primary aim of this project is to explore user engagement patterns on Yelp to understand what contributes to restaurant success. By analysing reviews, tips, check-ins, and other engagement factors, we provide insights that could help restaurants thrive in a competitive market. The dataset covers key metrics from restaurants in major cities across the United States and Canada.</small>
 
-Agenda
-Problem Statement: It is tough to stand out in a competitive restaurant market, so we are looking into what factors can help restaurants succeed.
-Goals:
-Measure how reviews, check-ins, and tips affect ratings and popularity.
-Check if positive feedback in reviews (like “useful,” “funny,” “cool”) helps boost a restaurant’s success.
-Identify patterns over time and across locations.
-The Data: Pulled from Yelp, this data covers restaurants in eight major cities across the United States and Canada.
-Data Analysis and Findings
-Engagement and Ratings: Generally, restaurants with more engagement tend to have better ratings, with a peak around 4 stars.
-Interlinked Engagement: Reviews, tips, and check-ins are connected. A boost in one area can often lead to more activity in others.
-Location, Location, Location: Some cities, like Philadelphia and Tampa, show higher success scores, suggesting they are great spots for the restaurant business.
-Time Trends: High-rated restaurants usually keep consistent engagement, especially from November to March. Evening hours (4 pm to 1 am) are prime time for diners.
-Sentiment Matters: Reviews tagged as “useful,” “funny,” or “cool” often indicate higher satisfaction and contribute to success.
-Elite vs. Regular Users: Elite users make a big impact even though there are fewer of them. Building relationships with these users can boost repeat business.
-Recommendations
-Focus on All Forms of Engagement: The more active you are on different fronts, the more visibility you will get.
-Team Up with Elite Users: Connect with Yelp’s elite users—they are more likely to leave detailed reviews and become loyal customers.
-Optimise Your Hours: With engagement peaking in the evening, plan staffing and resources accordingly.
-Consider Expanding in Key Cities: If you are planning to grow, cities with high engagement might be the best places to start.
-Conclusion
-By digging into this data, we have found some practical tips that can help restaurants get more out of Yelp. Whether it is boosting engagement, targeting specific hours, or building relationships with frequent reviewers, these insights could make a real difference.
+## Business Questions
 
+After analysing the data, we focused on several key questions:
+
+1. **How do reviews, tips, and check-ins impact a restaurant’s rating and popularity?**
+2. **Is there a link between review feedback (like “useful,” “funny,” and “cool” tags) and overall restaurant success?**
+3. **Which cities show the highest levels of engagement and success for restaurants?**
+4. **What time trends are associated with high-performing restaurants?**
+5. **How does engagement differ between elite Yelp users and regular users?**
+
+## Data Analysis and Findings
+
+Through extensive data analysis, we found:
+
+- **Engagement and Ratings**: More engagement generally leads to better ratings, especially around the 4-star mark.
+- **Interconnected Engagement**: Reviews, tips, and check-ins are closely linked, where an increase in one type of engagement often boosts others.
+- **Location Insights**: Cities like **Philadelphia** and **Tampa** show higher success scores, suggesting they are prime locations for restaurant success.
+- **Time-Based Patterns**: High-rated restaurants tend to have steady engagement throughout the year, particularly from **November to March**, with peak engagement hours in the evening.
+- **Sentiment Effects**: Reviews tagged as “useful,” “funny,” or “cool” usually reflect higher satisfaction, positively impacting success.
+- **Influence of Elite Users**: Elite users, though fewer, have a significant impact on restaurant visibility and customer loyalty.
+
+## Recommendations
+
+Based on the findings, here are some actionable recommendations:
+
+- **Leverage All Engagement Channels**: Actively encourage reviews, tips, and check-ins to boost visibility and ratings.
+- **Build Relationships with Elite Users**: Engaging with elite users can lead to valuable, detailed feedback and increased loyalty.
+- **Optimise Business Hours**: Since evenings are peak times, ensure that resources and staffing are aligned with this trend.
+- **Consider Expansion in High-Engagement Cities**: For growth, prioritise cities that show a high level of engagement and customer activity.
+
+## Conclusion
+
+This project provides practical insights into how user engagement can drive restaurant success on Yelp. By understanding and leveraging engagement trends, restaurant owners can make more informed decisions to attract and retain customers effectively.
